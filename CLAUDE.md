@@ -25,9 +25,9 @@ npm run format   # Prettier フォーマット
 src/
 ├── app/          # App Router のページ・レイアウト
 ├── components/   # 共有 UI コンポーネント
-├── hooks/        # カスタムフック
+├── hooks/        # カスタムフック (例: usePomodoroTimer.ts)
 ├── lib/          # ユーティリティ・外部サービス連携
-└── types/        # 型定義
+└── types/        # 型定義 (例: timer.ts)
 ```
 
 ## 規約

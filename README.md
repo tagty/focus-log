@@ -2,6 +2,12 @@
 
 フォーカスセッションを記録・管理するアプリ。
 
+## 機能
+
+- ポモドーロタイマー (Focus 25分 / Break 5分)
+  - Start / Pause / Reset / Switch Mode
+  - 0になったら自動停止
+
 ## 技術スタック
 
 - Next.js 16 (App Router)
